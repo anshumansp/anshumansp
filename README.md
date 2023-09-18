@@ -1,16 +1,32 @@
-### Hi there 👋
+###### 🚀 Full-Stack Developer | Anshuman Parmar
 
-<!--
-**anshumansp/anshumansp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Anshuman Parmar, a full-stack developer with a passion for building innovative and user-friendly web applications. I have experience with a wide range of technologies, including:
 
-Here are some ideas to get you started:
+* Frontend: React, TypeScript, HTML, CSS, JavaScript
+* Backend: Node.js, Express
+* Databases: PostgreSQL, MongoDB
+* Version Control: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### 💻 Projects
+
+For Visiting My Portfolio website, you can go to <a href="anshumansp.netlify.app" > Portfolio </a>
+
+* Corsrex:
+* Urbanly:
+* Notex:
+* Corsrex 1.0:
+* Newswave:
+* TextUtils:
+* Dark-Dance: 
+
+###### 💬 Contact
+
+* Facebook: 
+* Instagram: 
+* Twitter: 
+* Linkedin: 
+* Telegram: 
+* Discord: 
+* Email: 
+
+###### 🌌 Let's Connect!
