@@ -1,6 +1,8 @@
 ###### 🚀 Full-Stack Developer | Anshuman Parmar
 
-Hi there! I'm a full-stack developer with a passion for building innovative and user-friendly web applications. I have experience with a wide range of technologies, including:
+Hi there! I'm a full-stack developer with a passion for building innovative and user-friendly web applications. I have experience with a wide range of technologies, that you can see below.
+
+###### 🔭 Skills
 
 * Frontend: React, TypeScript, HTML, CSS, JavaScript
 * Backend: Node.js, Express
@@ -24,12 +26,12 @@ For Knowing Better about my Skills, visit <a href="anshumansp.netlify.app" > My 
 
 ###### 💬 Contact
 
-* <a href="https://corsrex.netlify.app/">Facebook </a>
-* <a href="https://corsrex.netlify.app/">Instagram </a>
-* <a href="https://corsrex.netlify.app/">Twitter </a>
-* <a href="https://corsrex.netlify.app/">Linkedin </a>
-* <a href="https://corsrex.netlify.app/">Telegram </a>
-* <a href="https://corsrex.netlify.app/">Discord </a>
-* <a href="https://corsrex.netlify.app/">Email </a>
+* <a href="https://www.facebook.com/anshuman.parmar.129">Facebook </a>
+* <a href="https://www.instagram.com/anshuman_.__/">Instagram </a>
+* <a href="https://twitter.com/anshumansparmar">Twitter </a>
+* <a href="https://www.linkedin.com/in/anshuman-parmar-757666219/">Linkedin </a>
 
 ###### 🌌 Let's Connect!
+
+* Telegram: disastr0us
+* Email: anshumansp16@gmail.com
