@@ -2,31 +2,34 @@
 
 Hi there! I'm a full-stack developer with a passion for building innovative and user-friendly web applications. I have experience with a wide range of technologies, including:
 
-* Frontend: React, TypeScript, HTML, CSS, JavaScript, Three.js
+* Frontend: React, TypeScript, HTML, CSS, JavaScript
 * Backend: Node.js, Express
 * Databases: PostgreSQL, MongoDB
+* Libraries:  Redux, Three.js, Socket.io, Tailwind, Material UI, Bootstrap
+* Deployment/Hosting: AWS, Vercel, Netlify, Render, Railway
+* Design Tool: Figma 
 * Version Control: Git
 
 ###### 💻 Projects
 
 For Knowing Better about my Skills, visit <a href="anshumansp.netlify.app" > My Portfolio </a>
 
-* <a href="anshumansp.netlify.app">Corsrex </a>
-* <a href="anshumansp.netlify.app">Urbanly </a>
-* <a href="anshumansp.netlify.app">Notex </a>
-* <a href="anshumansp.netlify.app">Corsrex 1.0 </a>
-* <a href="anshumansp.netlify.app">Newswave </a>
-* <a href="anshumansp.netlify.app">TextUtils </a>
-* <a href="anshumansp.netlify.app">Dark-Dance </a>
+* <a href="https://corsrex.netlify.app/">Corsrex </a>
+* <a href="https://urbanly.netlify.app/">Urbanly </a>
+* <a href="https://notx.netlify.app/">Notex </a>
+* <a href="https://corsrex-v1.netlify.app/">Corsrex 1.0 </a>
+* <a href="https://github.com/anshumansp/NewsWave-React">Newswave </a>
+* <a href="https://txtutls.netlify.app/">TextUtils </a>
+* <a href="https://dark-dance-production.up.railway.app/">Dark-Dance </a>
 
 ###### 💬 Contact
 
-* <a href="anshumansp.netlify.app">Facebook </a>
-* <a href="anshumansp.netlify.app">Instagram </a>
-* <a href="anshumansp.netlify.app">Twitter </a>
-* <a href="anshumansp.netlify.app">Linkedin </a>
-* <a href="anshumansp.netlify.app">Telegram </a>
-* <a href="anshumansp.netlify.app">Discord </a>
-* <a href="anshumansp.netlify.app">Email </a>
+* <a href="https://corsrex.netlify.app/">Facebook </a>
+* <a href="https://corsrex.netlify.app/">Instagram </a>
+* <a href="https://corsrex.netlify.app/">Twitter </a>
+* <a href="https://corsrex.netlify.app/">Linkedin </a>
+* <a href="https://corsrex.netlify.app/">Telegram </a>
+* <a href="https://corsrex.netlify.app/">Discord </a>
+* <a href="https://corsrex.netlify.app/">Email </a>
 
 ###### 🌌 Let's Connect!
