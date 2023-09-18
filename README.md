@@ -1,37 +1,43 @@
-###### 🚀 Full-Stack Developer | Anshuman Parmar
+# 🚀 Full-Stack Developer | Anshuman Parmar
 
-Hi there! I'm a full-stack developer with a passion for building innovative and user-friendly web applications. I have experience with a wide range of technologies, that you can see below.
+Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building innovative and user-friendly web applications. I bring expertise in a wide range of technologies, which you can explore below.
 
-###### 🔭 Skills
+## 🔭 Skills
 
-* Frontend: React, TypeScript, HTML, CSS, JavaScript
-* Backend: Node.js, Express
-* Databases: PostgreSQL, MongoDB
-* Libraries:  Redux, Three.js, Socket.io, Tailwind, Material UI, Bootstrap
-* Deployment/Hosting: AWS, Vercel, Netlify, Render, Railway
-* Design Tool: Figma 
-* Version Control: Git
+- **Frontend:** React, TypeScript, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express
+- **Databases:** PostgreSQL, MongoDB
+- **Libraries:** Redux, Three.js, Socket.io, Tailwind, Material UI, Bootstrap
+- **Deployment/Hosting:** AWS, Vercel, Netlify, Render, Railway
+- **Design Tool:** Figma
+- **Version Control:** Git
 
-###### 💻 Projects
+## 💻 Projects
 
-For Knowing Better about my Skills, [![My Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue.svg)](anshumansp.netlify.app)
+🌟 Discover my work on the web:
 
-* <a href="https://corsrex.netlify.app/">Corsrex </a>
-* <a href="https://urbanly.netlify.app/">Urbanly </a>
-* <a href="https://notx.netlify.app/">Notex </a>
-* <a href="https://corsrex-v1.netlify.app/">Corsrex 1.0 </a>
-* <a href="https://github.com/anshumansp/NewsWave-React">Newswave </a>
-* <a href="https://txtutls.netlify.app/">TextUtils </a>
-* <a href="https://dark-dance-production.up.railway.app/">Dark-Dance </a>
+- [**My Portfolio**](https://anshumansp.netlify.app): Get to know me better through my portfolio showcasing various projects.
 
-###### 💬 Contact
+- [Corsrex](https://corsrex.netlify.app)
+- [Urbanly](https://urbanly.netlify.app)
+- [Notex](https://notex.netlify.app)
+- [Corsrex 1.0](https://corsrex-v1.netlify.app)
+- [Newswave](https://github.com/anshumansp/NewsWave-React)
+- [TextUtils](https://txtutls.netlify.app)
+- [Dark-Dance](https://dark-dance-production.up.railway.app)
 
-* <a href="https://www.facebook.com/anshuman.parmar.129">Facebook </a>
-* <a href="https://www.instagram.com/anshuman_.__/">Instagram </a>
-* <a href="https://twitter.com/anshumansparmar">Twitter </a>
-* <a href="https://www.linkedin.com/in/anshuman-parmar-757666219/">Linkedin </a>
+## 💬 Contact
 
-###### 🌌 Let's Connect!
+📞 Connect with me on social media:
 
-* Telegram Username: @disastr0us
-* Email Address: anshumansp16@gmail.com
+- [Facebook](https://www.facebook.com/anshuman.parmar.129)
+- [Instagram](https://www.instagram.com/anshuman_.__/)
+- [Twitter](https://twitter.com/anshumansparmar)
+- [LinkedIn](https://www.linkedin.com/in/anshuman-parmar-757666219/)
+
+## 🌌 Let's Connect!
+
+Reach out to me directly:
+
+- Telegram Username: @disastr0us
+- Email Address: anshumansp16@gmail.com
