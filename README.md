@@ -2,14 +2,14 @@
 
 Hi there! I'm a full-stack developer with a passion for building innovative and user-friendly web applications. I have experience with a wide range of technologies, including:
 
-* Frontend: React, TypeScript, HTML, CSS, JavaScript
+* Frontend: React, TypeScript, HTML, CSS, JavaScript, Three.js
 * Backend: Node.js, Express
 * Databases: PostgreSQL, MongoDB
 * Version Control: Git
 
 ###### 💻 Projects
 
-For Visiting My Portfolio website, you can go to <a href="anshumansp.netlify.app" > Portfolio </a>
+For Knowing Better about my Skills, visit <a href="anshumansp.netlify.app" > My Portfolio </a>
 
 * <a href="anshumansp.netlify.app">Corsrex </a>
 * <a href="anshumansp.netlify.app">Urbanly </a>
