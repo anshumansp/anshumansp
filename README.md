@@ -11,22 +11,22 @@ Hi there! I'm a full-stack developer with a passion for building innovative and 
 
 For Visiting My Portfolio website, you can go to <a href="anshumansp.netlify.app" > Portfolio </a>
 
-* Corsrex:
-* Urbanly:
-* Notex:
-* Corsrex 1.0:
-* Newswave:
-* TextUtils:
-* Dark-Dance: 
+* <a href="anshumansp.netlify.app">Corsrex </a>
+* <a href="anshumansp.netlify.app">Urbanly </a>
+* <a href="anshumansp.netlify.app">Notex </a>
+* <a href="anshumansp.netlify.app">Corsrex 1.0 </a>
+* <a href="anshumansp.netlify.app">Newswave </a>
+* <a href="anshumansp.netlify.app">TextUtils </a>
+* <a href="anshumansp.netlify.app">Dark-Dance </a>
 
 ###### 💬 Contact
 
-* Facebook: 
-* Instagram: 
-* Twitter: 
-* Linkedin: 
-* Telegram: 
-* Discord: 
-* Email: 
+* <a href="anshumansp.netlify.app">Facebook </a>
+* <a href="anshumansp.netlify.app">Instagram </a>
+* <a href="anshumansp.netlify.app">Twitter </a>
+* <a href="anshumansp.netlify.app">Linkedin </a>
+* <a href="anshumansp.netlify.app">Telegram </a>
+* <a href="anshumansp.netlify.app">Discord </a>
+* <a href="anshumansp.netlify.app">Email </a>
 
 ###### 🌌 Let's Connect!
