@@ -1,4 +1,4 @@
-### 🚀 Full-Stack Developer | Anshuman Parmar
+#### 🚀 Full-Stack Developer | Anshuman Parmar
 
 Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building innovative and user-friendly web applications. I bring expertise in a wide range of technologies, which you can explore below.
 
@@ -28,7 +28,7 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 
 ## 💬 Contact
 
-📞 Connect with me on social media:
+🌐 Connect with me on social media:
 
 - [Facebook](https://www.facebook.com/anshuman.parmar.129)
 - [Instagram](https://www.instagram.com/anshuman_.__/)
