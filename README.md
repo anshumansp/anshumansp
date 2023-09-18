@@ -39,5 +39,6 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 
 💬 Reach out to me directly:
 
-- Telegram Username: @disastr0us
-- Email Address: anshumansp16@gmail.com
+- Telegram: @disastr0us
+- Discord: anshuman0101
+- Email: anshumansp16@gmail.com
