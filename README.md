@@ -35,7 +35,7 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 - [Twitter](https://twitter.com/anshumansparmar)
 - [LinkedIn](https://www.linkedin.com/in/anshuman-parmar-757666219/)
 
-# 🌌 Let's Connect!
+### 🌌 Let's Connect!
 
 💬 Reach out to me directly:
 
