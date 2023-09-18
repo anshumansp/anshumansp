@@ -1,6 +1,6 @@
 ###### 🚀 Full-Stack Developer | Anshuman Parmar
 
-Hi there! I'm Anshuman Parmar, a full-stack developer with a passion for building innovative and user-friendly web applications. I have experience with a wide range of technologies, including:
+Hi there! I'm a full-stack developer with a passion for building innovative and user-friendly web applications. I have experience with a wide range of technologies, including:
 
 * Frontend: React, TypeScript, HTML, CSS, JavaScript
 * Backend: Node.js, Express
