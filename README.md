@@ -33,5 +33,5 @@ For Knowing Better about my Skills, visit <a href="anshumansp.netlify.app" > My 
 
 ###### 🌌 Let's Connect!
 
-* Telegram: disastr0us
-* Email: anshumansp16@gmail.com
+* Telegram Username: disastr0us
+* Email Address: anshumansp16@gmail.com
