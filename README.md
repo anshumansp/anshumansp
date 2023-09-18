@@ -2,7 +2,7 @@
 
 Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building innovative and user-friendly web applications. I bring expertise in a wide range of technologies, which you can explore below.
 
-## 🔭 Skills
+# 🔭 Skills
 
 - **Frontend:** React, TypeScript, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express
@@ -12,7 +12,7 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 - **Design Tool:** Figma
 - **Version Control:** Git
 
-## 💻 Projects
+# 💻 Projects
 
 🌟 Discover my work on the web:
 
@@ -26,7 +26,7 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 - [TextUtils](https://txtutls.netlify.app)
 - [Dark-Dance](https://dark-dance-production.up.railway.app)
 
-## 💬 Contact
+# 💬 Contact
 
 🌐 Connect with me on social media:
 
@@ -35,10 +35,10 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 - [Twitter](https://twitter.com/anshumansparmar)
 - [LinkedIn](https://www.linkedin.com/in/anshuman-parmar-757666219/)
 
-## 🌌 Let's Connect!
+# 🌌 Let's Connect!
 
 💬 Reach out to me directly:
 
 - Telegram: @disastr0us
-- Discord: anshuman0101
+- Discord: @anshuman0101
 - Email: anshumansp16@gmail.com
