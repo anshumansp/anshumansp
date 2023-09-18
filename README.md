@@ -16,7 +16,7 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 
 🌟 Discover my work on the web:
 
-- [**My Portfolio**](https://anshumansp.netlify.app): Get to know me better through my portfolio showcasing various projects.
+- [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-anshumansp.netlify.app-blue?style=for-the-badge&logo=appveyor)](https://anshumansp.netlify.app)
 
 - [Corsrex](https://corsrex.netlify.app)
 - [Urbanly](https://urbanly.netlify.app)
