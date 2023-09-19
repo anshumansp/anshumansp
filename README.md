@@ -6,7 +6,7 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 
 - **Frontend:** React, TypeScript, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express
-- **Databases:** PostgreSQL, MongoDB
+- **Databases:** MySQL, PostgreSQL, MongoDB
 - **Libraries:** Redux, Three.js, Socket.io, Tailwind, Material UI, Bootstrap
 - **Deployment/Hosting:** AWS, Vercel, Netlify, Render, Railway
 - **Design Tool:** Figma
