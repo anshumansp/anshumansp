@@ -18,10 +18,11 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-anshumansp.netlify.app-blue?style=for-the-badge&logo=appveyor)](https://anshumansp.netlify.app)
 
+- [GP Customs](https://gpcustoms.vercel.app)
 - [Corsrex](https://corsrex.netlify.app)
 - [Urbanly](https://urbanly.netlify.app)
 - [Notex](https://notex.netlify.app)
-- [Corsrex 1.0](https://corsrex-v1.netlify.app)
+- [Corsrex 1.0](https://anshumansp.github.io/trial-corsrex/)
 - [Newswave](https://github.com/anshumansp/NewsWave-React)
 - [TextUtils](https://txtutls.netlify.app)
 - [Dark-Dance](https://dark-dance-production.up.railway.app)
