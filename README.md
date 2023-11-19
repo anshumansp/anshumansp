@@ -1,11 +1,11 @@
-## 🚀 Full-Stack Web Developer | Anshuman Parmar
+## 🚀 Full-Stack Developer | Anshuman Parmar
 
-Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building innovative and user-friendly web applications. I bring expertise in a wide range of technologies, which you can explore below.
+Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building innovative and user-friendly web and mobile applications. I bring expertise in a wide range of technologies, which you can explore below.
 
 ### 🔭 Skills
 
-- **Frontend:** React, TypeScript, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express
+- **Frontend:** Next.js, React, React Native TypeScript, HTML, CSS, JavaScript
+- **Backend:** Next.js, Node.js, Express
 - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
 - **Libraries:** Redux, Three.js, Socket.io, Tailwind, Material UI, Bootstrap
 - **Deployment/Hosting:** AWS, Vercel, Netlify, Render, Railway
