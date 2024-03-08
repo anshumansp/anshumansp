@@ -2,7 +2,9 @@
 
 Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building innovative and user-friendly web and mobile applications. I bring expertise in a wide range of technologies, which you can explore below.
 
-🔭 **I’m currently working on:**  <br>Building FullStack Applications using MERN Stack <br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Next JS and Advanced DBMS <br><br>💬 **Ask me about:**  <br>JavaScript, React, Redux, Mongo DB, Node.js, Git and any general software development questions.<br><br>
+### 🤵‍♂️ About Me
+
+ 📍 **I’m currently working on:**  <br>Building FullStack Applications using MERN Stack <br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Next JS and Advanced DBMS <br><br>💬 **Ask me about:**  <br>JavaScript, React, Redux, Mongo DB, Node.js, Git and any general software development questions.<br><br>
 
 ### 🔭 Skills
 
@@ -13,6 +15,9 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 - **Deployment/Hosting:** AWS, Vercel, Netlify, Render, Railway
 - **Design Tool:** Figma
 - **Version Control:** Git
+
+<br><br>
+
 
 ### 💻 Projects
 
@@ -30,19 +35,27 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 - [TextUtils](https://txtutls.netlify.app)
 - [Dark-Dance](https://dark-dance-production.up.railway.app)
 
+<br><br>
+
 ### 🌐 Connect with me on social media:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anshumansparmar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuman-parmar-757666219/) [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/anshumansp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshuman_.__/)
 
 - Email: anshumansp16@gmail.com
 
+<br><br>
+
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anshumansp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anshumansp&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumansp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<br><br>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anshumansp&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+<br><br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anshumansp&icon=0&color=0)](https://visitcount.itsvg.in)
