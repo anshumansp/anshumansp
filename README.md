@@ -36,6 +36,14 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 - [Twitter](https://twitter.com/anshumansparmar)
 - [LinkedIn](https://www.linkedin.com/in/anshuman-parmar-757666219/)
 
+### 🌌 Let's Connect!
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anshumansparmar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshuman_.__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuman-parmar-757666219/)
+
+- Telegram: @disastr0us
+- Discord: @anshuman0101
+- Email: anshumansp16@gmail.com
+
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anshumansp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anshumansp&theme=dark&hide_border=false)<br/>
@@ -48,11 +56,3 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 [![](https://visitcount.itsvg.in/api?id=anshumansp&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### 🌌 Let's Connect!
-
-💬 Reach out to me directly:
-
-- Telegram: @disastr0us
-- Discord: @anshuman0101
-- Email: anshumansp16@gmail.com
