@@ -18,6 +18,7 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-anshumansp.netlify.app-blue?style=for-the-badge&logo=appveyor)](https://anshumansp.netlify.app)
 
+- [Snugstaff](https://snugstaff.com/)
 - [GP Customs](https://gpcustoms.vercel.app)
 - [Corsrex](https://corsrex.netlify.app)
 - [Urbanly](https://urbanly.netlify.app)
@@ -27,20 +28,11 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 - [TextUtils](https://txtutls.netlify.app)
 - [Dark-Dance](https://dark-dance-production.up.railway.app)
 
-### 💬 Contact
-
-🌐 Connect with me on social media:
-
-- [Facebook](https://www.facebook.com/anshuman.parmar.129)
-- [Instagram](https://www.instagram.com/anshuman_.__/)
-- [Twitter](https://twitter.com/anshumansparmar)
-- [LinkedIn](https://www.linkedin.com/in/anshuman-parmar-757666219/)
-
-### 🌌 Let's Connect!
+### 🌐 Connect with me on social media:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anshumansparmar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshuman_.__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuman-parmar-757666219/)
 
-- Telegram: @disastr0us
+- Telegram: @anshumansp
 - Discord: @anshuman0101
 - Email: anshumansp16@gmail.com
 
