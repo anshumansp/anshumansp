@@ -30,7 +30,7 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 
 ### 🌐 Connect with me on social media:
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anshumansparmar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuman-parmar-757666219/) [![Discord](https://img.shields.io/badge/Discord-%230077B5.svg?logo=Discord&logoColor=white)](https://linkedin.com/in/anshuman-parmar-757666219/)  [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/anshumansp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshuman_.__/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anshumansparmar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuman-parmar-757666219/) [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/anshumansp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshuman_.__/)
 
 - Email: anshumansp16@gmail.com
 
