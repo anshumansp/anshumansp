@@ -16,7 +16,7 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 - **Design Tool:** Figma
 - **Version Control:** Git
 
-<br><br>
+<br>
 
 
 ### 💻 Projects
@@ -35,7 +35,7 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 - [TextUtils](https://txtutls.netlify.app)
 - [Dark-Dance](https://dark-dance-production.up.railway.app)
 
-<br><br>
+<br>
 
 ### 🌐 Connect with me on social media:
 
@@ -43,19 +43,19 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 
 - Email: anshumansp16@gmail.com
 
-<br><br>
+<br>
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anshumansp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anshumansp&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumansp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br><br>
+<br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anshumansp&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<br><br>
+<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anshumansp&icon=0&color=0)](https://visitcount.itsvg.in)
