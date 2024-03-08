@@ -2,7 +2,7 @@
 
 Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building innovative and user-friendly web and mobile applications. I bring expertise in a wide range of technologies, which you can explore below.
 
-### 🤵‍♂️ About Me
+<br>
 
  📍 **I’m currently working on:**  <br>Building FullStack Applications using MERN Stack <br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Next JS and Advanced DBMS <br><br>💬 **Ask me about:**  <br>JavaScript, React, Redux, Mongo DB, Node.js, Git and any general software development questions.<br><br>
 
