@@ -25,7 +25,6 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-anshumansp.netlify.app-blue?style=for-the-badge&logo=appveyor)](https://anshumansp.netlify.app)
 
-- [GP Customs](https://gpcustoms.vercel.app)
 - [Corsrex](https://corsrex.netlify.app)
 - [Urbanly](https://urbanly.netlify.app)
 - [Notex](https://notex.netlify.app)
