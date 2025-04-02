@@ -25,6 +25,10 @@ Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building 
 
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-anshumansp.netlify.app-blue?style=for-the-badge&logo=appveyor)](https://anshumansp.netlify.app)
 
+- [CrownKing](https://crownking.vercel.app/)
+- [Pixelize](https://pixelizesolution.com/)
+- [Consultix](https://consultix.netlify.app/)
+- [Physiocare](https://physio-care.vercel.app/)
 - [Corsrex](https://corsrex.netlify.app)
 - [Urbanly](https://urbanly.netlify.app)
 - [Notex](https://notex.netlify.app)
